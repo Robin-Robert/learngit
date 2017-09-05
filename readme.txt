@@ -1,4 +1,4 @@
 not OK Git is a distributed version control system.
 Git is free software.
-
+LOL
 Git has a mutable index called stage.
